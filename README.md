@@ -1,7 +1,7 @@
 # SimpleRat
 A crude (so far) RAT
 
-It has a stiller, access to the console (the result is returned to you)
+It has a stiller, access to the console (the result is returned to you), Anti-Debugger (if you want convert it to exe it will helpful), Auto-reconnect to server, Auto-enable-wifi-connection
 
 You can use it in the development of your RAT or stiller
 
